@@ -1,0 +1,8 @@
+dist-newstyle
+cspell.json
+fourmolu.yaml
+*.hp
+*.prof
+*.ghci
+*.local
+
